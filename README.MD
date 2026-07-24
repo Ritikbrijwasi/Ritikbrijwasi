@@ -90,7 +90,6 @@
 ✔ React.js
 ✔ MongoDB
 ✔ Artificial Intelligence
-✔ Cloud Computing
 ```
 
 ---
