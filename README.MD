@@ -59,7 +59,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritikbrijwasi&theme=tokyo-night"/>
 
 </p>
 
@@ -71,7 +71,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/RitikBrijwasi/RitikBrijwasi/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Ritikbrijwasi/Ritikbrijwasi/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
