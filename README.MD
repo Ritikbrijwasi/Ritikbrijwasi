@@ -71,7 +71,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/RitikBrijwasi/RitikBrijwasi/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
