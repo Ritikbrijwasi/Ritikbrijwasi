@@ -67,15 +67,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Ritikbrijwasi/Ritikbrijwasi/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
 
 # 🚀 Featured Projects
 
