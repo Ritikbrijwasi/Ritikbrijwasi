@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Ritik Brijwasi
 
-### 💻 Full Stack Developer | 🤖 AI Enthusiast | 🚀 Competitive Programmer
+### 💻 Full Stack Developer | 🤖 AI Enthusiast 
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI+Enthusiast;Always+Learning+Something+New!" />
 
