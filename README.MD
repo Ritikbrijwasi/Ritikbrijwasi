@@ -4,7 +4,7 @@
 
 ### 💻 Full Stack Developer | 🤖 AI Enthusiast 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI+Enthusiast;Always+Learning+Something+New!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer+in+making;AI+Enthusiast;Always+Learning+Something+New!" />
 
 
 </div>
