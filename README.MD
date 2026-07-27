@@ -58,11 +58,8 @@
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritikbrijwasi&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikbrijwasi&theme=tokyo-night"/>
 </p>
-
 ---
 
 ---
